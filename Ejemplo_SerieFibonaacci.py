@@ -1,4 +1,3 @@
-
 n = int(input("Numero de valores para la sucesion despues de los primeros dos digitos: "))
 a = 0
 b = 1
